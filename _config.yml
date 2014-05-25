@@ -1,10 +1,12 @@
 # Site settings
 title: Somay Jain
 email: somayjain@gmail.com
-description: "A senior-year computer science undergrad from IIIT Hyderabad. Have a keen interest in high performance computing and it's blend with computer graphics and vision. Having worked on HFOSS projects for the past 2 years, enthusiastic about open source software development."
+description: "Someone rightly said, all one needs is bars and codes!"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://somayjain.github.io"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+username: somayjain

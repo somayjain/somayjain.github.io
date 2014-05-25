@@ -403,3 +403,6 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+img[alt=sahana-before] { width: 600px; }
+img[alt=sahana-after] { width: 600px; }

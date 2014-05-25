@@ -2,9 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Somay Jain</title>
-    <description>A senior-year computer science undergrad from IIIT-H. Have a keen interest in high performance computing and it&#39;s blend with computer graphics and vision. Having worked on HFOSS projects for the past 2 years, enthusiastic about open source software development.</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Someone rightly said, all one needs is bars and codes!</description>
+    <link>http://somayjain.github.io/</link>
+    <atom:link href="http://somayjain.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>GSoC : Week 1 Experiences</title>
+        <description>&lt;p&gt;The first week has almost come to an end. I must say, this was a pretty productive week. To start off, I set up a &lt;a href=&quot;http://demo.ssf.sahanafoundation.org/&quot;&gt;demo instance&lt;/a&gt; of &lt;a href=&quot;http://ssf.sahanafoundation.org/&quot;&gt;Sunflower&lt;/a&gt; on which I would push the newer code.&lt;/p&gt;
+
+&lt;p&gt;The targets of the week were to - &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Redesign the website to use a bootstrap based theme &lt;/li&gt;
+  &lt;li&gt;Fetch updates from Github, Twitter, Sahana wiki, Tasks list and Sahana Tickets&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Redesigning the webpage was fun, as we know it, bootstrap is quite awesome!&lt;/p&gt;
+
+&lt;p&gt;Before redesigning - &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://somayjain.github.io/imgs/sahana-before.png&quot; alt=&quot;sahana-before&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;After redesigning - &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://somayjain.github.io/imgs/sahana-after.png&quot; alt=&quot;sahana-after&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Though I am not that good at web design, but I guess I did a decent enough job :)&lt;/p&gt;
+
+&lt;p&gt;Now, for fetching the updates, I decided to use the RSS and Atom feeds for Github and Twitter. The Sahana wiki is hosted on trac, so the RSS feeds for the wiki updates and tickets were also easily available.&lt;/p&gt;
+
+&lt;p&gt;For the tasks lists, which were stored in Sunflower’s database itself, it was a bit tricky to generate the RSS feed. It involved exporting the data in a xml format. But, there was XSLT to the rescue! Putting in some effort with XSLT, I was able to generate a RSS feed for the tasks list as well.&lt;/p&gt;
+
+&lt;p&gt;Having all the feeds, I used the &lt;a href=&quot;https://developers.google.com/feed&quot;&gt;Google Feed API&lt;/a&gt; to parse the feeds and display them in a tabbed manner.&lt;/p&gt;
+
+&lt;p&gt;In all, I would say, I struggled a bit with the documentation of Google Feed API, it could have been better, but nonetheless, I am really glad with the overall progress of the week.&lt;/p&gt;
+
+&lt;p&gt;Having read this post, if you have a bit more patience, do check out the demo site &lt;a href=&quot;http://demo.ssf.sahanafoundation.org&quot;&gt;here&lt;/a&gt; :)&lt;/p&gt;
+
+&lt;p&gt;Signing off.&lt;/p&gt;
+
+&lt;p&gt;– SJ&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 May 2014 23:52:36 +0530</pubDate>
+        <link>http://somayjain.github.io/gsoc/2014/05/25/week1/</link>
+        <guid isPermaLink="true">http://somayjain.github.io/gsoc/2014/05/25/week1/</guid>
+      </item>
     
       <item>
         <title>Google Summer of Code with Sahana Software Foundation</title>
@@ -24,8 +66,8 @@
 
 </description>
         <pubDate>Thu, 01 May 2014 23:52:36 +0530</pubDate>
-        <link>http://yourdomain.com/gsoc/2014/05/01/gsoc-sahana/</link>
-        <guid isPermaLink="true">http://yourdomain.com/gsoc/2014/05/01/gsoc-sahana/</guid>
+        <link>http://somayjain.github.io/gsoc/2014/05/01/gsoc-sahana/</link>
+        <guid isPermaLink="true">http://somayjain.github.io/gsoc/2014/05/01/gsoc-sahana/</guid>
       </item>
     
   </channel>
