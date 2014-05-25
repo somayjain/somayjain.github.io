@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Somay Jain</title>
-    <description>Someone rightly said, all one needs is bars and codes!</description>
-    <link>http://somayjain.github.io/</link>
-    <atom:link href="http://somayjain.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description>A senior-year computer science undergrad from IIIT-H. Have a keen interest in high performance computing and it&#39;s blend with computer graphics and vision. Having worked on HFOSS projects for the past 2 years, enthusiastic about open source software development.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>GSoC : Week 1 Experiences</title>
@@ -21,11 +21,11 @@
 
 &lt;p&gt;Before redesigning - &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://somayjain.github.io/imgs/sahana-before.png&quot; alt=&quot;sahana-before&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://yourdomain.com/imgs/sahana-before.png&quot; alt=&quot;sahana-before&quot; /&gt; &lt;/p&gt;
 
 &lt;p&gt;After redesigning - &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://somayjain.github.io/imgs/sahana-after.png&quot; alt=&quot;sahana-after&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://yourdomain.com/imgs/sahana-after.png&quot; alt=&quot;sahana-after&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Though I am not that good at web design, but I guess I did a decent enough job :)&lt;/p&gt;
 
@@ -44,8 +44,8 @@
 &lt;p&gt;– SJ&lt;/p&gt;
 </description>
         <pubDate>Sun, 25 May 2014 23:52:36 +0530</pubDate>
-        <link>http://somayjain.github.io/gsoc/2014/05/25/week1/</link>
-        <guid isPermaLink="true">http://somayjain.github.io/gsoc/2014/05/25/week1/</guid>
+        <link>http://yourdomain.com/gsoc/2014/05/25/week1/</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc/2014/05/25/week1/</guid>
       </item>
     
       <item>
@@ -66,8 +66,8 @@
 
 </description>
         <pubDate>Thu, 01 May 2014 23:52:36 +0530</pubDate>
-        <link>http://somayjain.github.io/gsoc/2014/05/01/gsoc-sahana/</link>
-        <guid isPermaLink="true">http://somayjain.github.io/gsoc/2014/05/01/gsoc-sahana/</guid>
+        <link>http://yourdomain.com/gsoc/2014/05/01/gsoc-sahana/</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc/2014/05/01/gsoc-sahana/</guid>
       </item>
     
   </channel>
