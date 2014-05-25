@@ -7,25 +7,25 @@
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+        <title>Google Summer of Code with Sahana Software Foundation</title>
+        <description>&lt;p&gt;I have been selected for Google Summer of Code (again!). I will be working with &lt;a href=&quot;http://sahanafoundation.org&quot;&gt;Sahana Software Foundation&lt;/a&gt; on their humanitarian FOSS project &lt;a href=&quot;http://eden.sahanafoundation.org&quot;&gt;Sahana Eden&lt;/a&gt;. It has been almost two years since I am working with Sahana, and every single day has proved to be a promising learning experience.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;As part of GSoC, I will be working on &lt;a href=&quot;http://ssf.sahanafoundation.org&quot;&gt;Sahana Sunflower&lt;/a&gt;, which will be used as a community managment tool to see what everyone is interested in working on and for people to report problems or seek assistance regarding Sahana Eden. It will have information about the deployments, members and volunteers of Sahana Eden around the globe. Also, giving stats about the community work, it will be useful in getting funds for this HFOSS! &lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Being a critical tool for Sahana, it gives a warm satisfying feel to take up the responsibility of building it during the summer. This is one of the best things about the program, you get to work on projects that are really important and do make an impact on a wider audience. Also, you learn to write good quality code, rather than some code which ‘just-works’ somehow.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Open Source is an addiction, and I hope that it stays with me for a long long time :)&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, I am also working on computational fluid dynamics, trying to simulate fluid flows on GPUs in parallel using CUDA. With over a million particle interacting with each other, according to some crazy physics equations, it is challenging but fun to watch the fluids flow on your computer screen.&lt;/p&gt;
+
+&lt;p&gt;If you look around, there is a lot to keep yourself occupied with, atleast I have, so looking forward to a great summer!&lt;/p&gt;
+
+&lt;p&gt;– SJ&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 25 May 2014 23:52:36 +0530</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/05/25/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/05/25/welcome-to-jekyll/</guid>
+        <pubDate>Thu, 01 May 2014 23:52:36 +0530</pubDate>
+        <link>http://yourdomain.com/gsoc/2014/05/01/gsoc-sahana/</link>
+        <guid isPermaLink="true">http://yourdomain.com/gsoc/2014/05/01/gsoc-sahana/</guid>
       </item>
     
   </channel>
