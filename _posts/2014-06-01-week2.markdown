@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "GSoC : Another Prolific Week"
+date:   2014-06-01 18:22:36
+categories: gsoc
+comments: True
+---
+
+With the end of the second week, comes another post!
+
+This week, I settled on the overall design for managing projects using Sunflower, constructing a logical	 hierarchy for them. It is true, constructing a hierarchy for something makes it easier to visualise and thus manage.
+
+The project hierarchy is simple -- A project can have a number of _milestones_ under it, each of which could contain a number of _tasks_. Also, one can set the intended duration of each milestone, thus creating a timeline for the project. I guess this is pretty much how I (and most of you?) like to work; setting small goals in my mind, and further dividing them into _todos_.
+
+Having said that, I realised that it is very important to [eat our own dog food](http://en.wikipedia.org/wiki/Eating_your_own_dog_food). So, as suggested by _Michael_, I started managing my GSoC project using [Sunflower](http://demo.ssf.sahanafoundation.org/demo/project/project/6/milestone) itself, while it is under development, so that I could get first hand feedback on it's usability.
+
+The next week would see me working on access control, making sure that the users can only see data intended for them. Indeed, a very critical part in designing a working system.
+
+Signing off.
+
+-- SJ
