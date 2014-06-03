@@ -35,6 +35,8 @@ In all, I would say, I struggled a bit with the documentation of Google Feed API
 
 Having read this post, if you have a bit more patience, do check out the demo site [here](http://demo.ssf.sahanafoundation.org) :)
 
+Also, this week's work can be found here -- [#770](https://github.com/flavour/eden/pull/770)
+
 Signing off.
 
 -- SJ

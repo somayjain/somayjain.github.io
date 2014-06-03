@@ -14,6 +14,8 @@ The project hierarchy is simple -- A project can have a number of _milestones_ u
 
 Having said that, I realised that it is very important to [eat our own dog food](http://en.wikipedia.org/wiki/Eating_your_own_dog_food). So, as suggested by _Michael_, I started managing my GSoC project using [Sunflower](http://demo.ssf.sahanafoundation.org/demo/project/project/6/milestone) itself, while it is under development, so that I could get first hand feedback on it's usability.
 
+You can see this week's work here -- [#779](https://github.com/flavour/eden/pull/779), [#782](https://github.com/flavour/eden/pull/782), [#784](https://github.com/flavour/eden/pull/784)
+
 The next week would see me working on access control, making sure that the users can only see data intended for them. Indeed, a very critical part in designing a working system.
 
 Signing off.
