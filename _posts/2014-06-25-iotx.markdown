@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "IOTX : A week in Colombo, for a cause!"
+date:   2014-06-25 18:22:36
+categories: travel
+comments: True
+---
+
+2014 commemorating the 10th year anniversary of the [2004 Indian Ocean Megathrust Tsunami](http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami), the [Sahana Software Foundation (SSF)](http://sahanafoundation.org) held a number of events in parallel with the 10th Indian Ocean Tsunami Anniversary convention (IOTX) in Colombo, Sri Lanka. SSF with support from Google was kind enough to fly in all it's GSoC students to Colombo for the convention. 
+
+I must say, this was a really long week. We learnt a lot from the Sahana community ranging from good coding standards, debugging techniques, strategic planning for an organisation, [SWOT analysis](http://en.wikipedia.org/wiki/SWOT_analysis), disaster management. Well, I could go on and on.
+
+Being assosiated with SSF for almost 2 years now, I finally got to meet the people whom I had known just by their IRC nicks, particularly Fran, Dominic and Michael. Those extended dinner time conversations about literally anything, be it discussing about a technology, why Sahana is not closed-source, acceptance test-driven development, to name a few were really intriguing.
+
+The biggest takeaway was learning about the various aspects of Sahana, other than software development. It made me realise how my contribution reaches out to the people. This, sure will prove to be a driving force to contribute more.
+
+Signing off.
+
+-- SJ
